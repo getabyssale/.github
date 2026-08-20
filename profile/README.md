@@ -19,6 +19,7 @@ Abyssale is a creative automation platform with a REST API, dynamic image URLs, 
 | Tool / Integration | Repository | Package / Marketplace Link |
 |---|---|---|
 | **Node.js / TypeScript SDK** | [abyssale-sdk](https://github.com/getabyssale/abyssale-sdk) | [@abyssale/sdk on npm](https://www.npmjs.com/package/@abyssale/sdk) |
+| **Python SDK** | [abyssale-python-sdk](https://github.com/getabyssale/abyssale-python-sdk) | [abyssale on PyPI](https://pypi.org/project/abyssale/) |
 | **n8n Node** | [n8n-nodes-abyssale](https://github.com/getabyssale/n8n-nodes-abyssale) | [n8n Integration Page](https://n8n.io/integrations/abyssale/) |
 | **Zapier** | - | [Zapier Integration](https://zapier.com/apps/abyssale/integrations) |
 | **Make.com** | - | [Make Integration](https://www.make.com/en/integrations/abyssale) |
@@ -33,6 +34,7 @@ Abyssale is a creative automation platform with a REST API, dynamic image URLs, 
 - **Bulk creative production** — asynchronous batch generation with webhook callbacks for high-volume workflows.
 - **Print-ready PDFs** — export pixel-perfect, high-resolution PDFs from templates at scale.
 - **HTML5 banner ads** — generate dynamic, animated banner ads programmatically.
+- **Create designs from JSON** *(API only — alpha)* — build a full design from a single JSON payload via [Design Import](https://developers.abyssale.com/rest-api/designs/import/).
 
 ---
 
